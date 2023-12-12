@@ -13,21 +13,9 @@
 
 ## Projects
 
-[![Onile Phase 2](./onile_redesign.png)](https://onile-redesign.netlify.app) **Onile Phase 2**
+[![Onile Phase 2](./onile_redesign.png)](https://onile-redesign.netlify.app) [![Onile Phase 1](./onile_home.png)](https://onile-homes.netlify.app) [![Simon Game](./simon_game.png)](https://simon-game-in-jquery.netlify.app) [![Play-It](./play_it.png)](https://play-kit.netlify.app)
 
-[![Onile Phase 1](./onile_home.png)](https://onile-homes.netlify.app) **Onile Phase 1**
-
-[![Simon Game](./simon_game.png)](https://simon-game-in-jquery.netlify.app) **Simon Game**
-
-[![Play-It](./play_it.png)](https://play-kit.netlify.app) **Play It**
-
-[![Dicee World](./dicee_world.png)](https://dicee-world.netlify.app) **Dicee World**
-
-[![GPT-3](./gpt_3.png)](https://adorable-narwhal-cc1273.netlify.app) **GTP-3**
-
-[![Calculator](./calculator.png)](https://my-calculator-in-vanillajs.netlify.app/) **Calculator**
-
-[![Tech4Dev](./tech4dev.png)](https://effulgent-smakager-0356d7.netlify.app/) **Teach4Dev Clone**
+[![Dicee World](./dicee_world.png)](https://dicee-world.netlify.app) [![GPT-3](./gpt_3.png)](https://adorable-narwhal-cc1273.netlify.app) [![Calculator](./calculator.png)](https://my-calculator-in-vanillajs.netlify.app/) [![Tech4Dev](./tech4dev.png)](https://effulgent-smakager-0356d7.netlify.app/)
 
 ## Technical Skills
 
