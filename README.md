@@ -6,65 +6,31 @@
 - 🌱 I’m currently learning **API Programming**
 - 👯 I’m looking to collaborate on **MERN Projects**
 - 🤔 I’m looking for help with **Transitioning fully into tech**
-- 💬 Read more about about **[LinkedIn](https://linkedin.com/in/taiwotopesunday)**
+- 💬 Read more about about **[LinkedIn](https://linkedin.com/in/taiwotopesunday)**, **[Twitter](https://twitter.com/taiwotopesunday)**
 - 📫 How to reach me: **taiwo.tope@proton.me**
 - 😄 Pronouns: **He**
 - ⚡ Fun fact: **I'm very foody**
 
 ## Projects
 
-[![Onile Phase 2](./onile_redesign.png)](https://onile-redesign.netlify.app) [![Onile Phase 1](./onile_home.png)](https://onile-homes.netlify.app) [![Simon Game](./simon_game.png)](https://simon-game-in-jquery.netlify.app) [![Play-It](./play_it.png)](https://play-kit.netlify.app)
+[![Onile Phase 2](./assets/images/onile_redesign.png)](https://onile-redesign.netlify.app) [![Onile Phase 1](./assets/images/onile_home.png)](https://onile-homes.netlify.app) [![Simon Game](./assets/images/simon_game.png)](https://simon-game-in-jquery.netlify.app) [![Play-It](./assets/images/play_it.png)](https://play-kit.netlify.app) [![Dicee World](./assets/images/dicee_world.png)](https://dicee-world.netlify.app) [![GPT-3](./assets/images/gpt_3.png)](https://adorable-narwhal-cc1273.netlify.app) [![Calculator](./assets/images/calculator.png)](https://my-calculator-in-vanillajs.netlify.app/) [![Tech4Dev](./assets/images/tech4dev.png)](https://effulgent-smakager-0356d7.netlify.app/)
 
-[![Dicee World](./dicee_world.png)](https://dicee-world.netlify.app) [![GPT-3](./gpt_3.png)](https://adorable-narwhal-cc1273.netlify.app) [![Calculator](./calculator.png)](https://my-calculator-in-vanillajs.netlify.app/) [![Tech4Dev](./tech4dev.png)](https://effulgent-smakager-0356d7.netlify.app/)
+## Core Languages and Tools
 
-## Technical Skills
+![HTML](./assets/images/html.png) ![CSS](./assets/images/css.png) ![BootstrapCSS](./assets/images/bootstrap.png) ![TailwindCSS](./assets/images/bootstrap.png) ![JavaScript](./assets/images/javascript.png) ![TypeScript](./assets/images/typescript.png) ![JQuery](./assets/images/jquery.png) ![ReactJS](./assets/images/react.png) ![NextJS](./assets/images/nextjs.png) ![NodeJS](./assets/images/nodejs.jpg) ![ExpressJS](./assets/images/expressjs.png) ![Embedded JavaScript](./assets/images/ejs.png) ![Python](./assets/images/python.jpeg) ![Git](./assets/images/git.png)
 
-### Frontend
+## Others
 
-- HTML5;
-- CSS3;
-- CSS Frameworks (BootstrapCSS, TailwindCss, FramerMotion);
-- Vanilla JavaScript;
-- JavaScript Frameworks (JQuery, ReactJS, NextJS).
-
-### Backend
-
-- NodeJS;
-- ExpressJS;
-- Embedded JavaScript (EJS);
-
-### Cybersecurity
-
-- Kali Linux;
-- Nmap;
-- Nessus;
-- Hydra;
-- Metasploit;
-- OSINT.
-
-### Others
-
-- Git and Github;
-- Version Control.
+- 👉🏾 Kali Linux;
+- 👉🏾 Nmap;
+- 👉🏾 Nessus;
+- 👉🏾 Hydra;
+- 👉🏾 Metasploit;
+- 👉🏾 OSINT.
 
 ## Soft Skills
 
-- Effective Communication;
-- Team Collaboration;
-- Time Management;
-- Leadership.
-
-<!--
-**topzyray/topzyray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩🏾‍💼 Effective Communication;
+- 👩🏾‍💼 Team Collaboration;
+- 👩🏾‍💼 Time Management;
+- 👩🏾‍💼 Leadership.
