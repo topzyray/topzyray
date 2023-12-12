@@ -1,6 +1,15 @@
-# Hi there 👋
+# Hi there, I am Tope 👋
 
 ## I am a Full Stack Software Developer and a Certified Cybersecurity Professional 💻🖥️
+
+- 🔭 I’m currently working on **Onile: A property listing platform**
+- 🌱 I’m currently learning **API Programming**
+- 👯 I’m looking to collaborate on **MERN Projects**
+- 🤔 I’m looking for help with **Transitioning fully into tech**
+- 💬 Read more about about **[LinkedIn](https://linkedin.com/in/taiwotopesunday)**
+- 📫 How to reach me: **taiwo.tope@proton.me**
+- 😄 Pronouns: **He**
+- ⚡ Fun fact: **I'm very foody**
 
 ## Projects
 
