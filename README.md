@@ -17,7 +17,7 @@
 
 ## Core Languages and Tools
 
-![HTML](./assets/images/html.png) ![CSS](./assets/images/css.png) ![BootstrapCSS](./assets/images/bootstrap.png) ![TailwindCSS](./assets/images/bootstrap.png) ![JavaScript](./assets/images/javascript.png) ![TypeScript](./assets/images/typescript.png) ![JQuery](./assets/images/jquery.png) ![ReactJS](./assets/images/react.png) ![NextJS](./assets/images/nextjs.png) ![NodeJS](./assets/images/nodejs.jpg) ![ExpressJS](./assets/images/expressjs.png) ![Embedded JavaScript](./assets/images/ejs.png) ![Python](./assets/images/python.jpeg) ![Git](./assets/images/git.png)
+![HTML](./assets/images/html.png) ![CSS](./assets/images/css.png) ![BootstrapCSS](./assets/images/bootstrap.png) ![TailwindCSS](./assets/images/tailwind.png) ![JavaScript](./assets/images/javascript.png) ![TypeScript](./assets/images/typescript.png) ![JQuery](./assets/images/jquery.png) ![ReactJS](./assets/images/react.png) ![NextJS](./assets/images/nextjs.png) ![NodeJS](./assets/images/nodejs.jpg) ![ExpressJS](./assets/images/expressjs.png) ![Embedded JavaScript](./assets/images/ejs.png) ![Python](./assets/images/python.jpeg) ![Git](./assets/images/git.png)
 
 ## Others Tools
 
