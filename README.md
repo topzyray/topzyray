@@ -3,7 +3,7 @@
 ## I am a Full Stack Software Developer and a Certified Cybersecurity Professional 💻🖥️
 
 - 🔭 I’m currently working on **Onile: A property listing platform**
-- 🌱 I’m currently learning **API Programming**
+- 🌱 I’m currently learning **API and Database**
 - 👯 I’m looking to collaborate on **MERN Projects**
 - 🤔 I’m looking for help with **Transitioning fully into tech**
 - 💬 Read more about about **[LinkedIn](https://linkedin.com/in/taiwotopesunday)**, **[Twitter](https://twitter.com/taiwotopesunday)**
@@ -19,7 +19,7 @@
 
 ![HTML](./assets/images/html.png) ![CSS](./assets/images/css.png) ![BootstrapCSS](./assets/images/bootstrap.png) ![TailwindCSS](./assets/images/bootstrap.png) ![JavaScript](./assets/images/javascript.png) ![TypeScript](./assets/images/typescript.png) ![JQuery](./assets/images/jquery.png) ![ReactJS](./assets/images/react.png) ![NextJS](./assets/images/nextjs.png) ![NodeJS](./assets/images/nodejs.jpg) ![ExpressJS](./assets/images/expressjs.png) ![Embedded JavaScript](./assets/images/ejs.png) ![Python](./assets/images/python.jpeg) ![Git](./assets/images/git.png)
 
-## Others
+## Others Tools
 
 - 👉🏾 Kali Linux;
 - 👉🏾 Nmap;
