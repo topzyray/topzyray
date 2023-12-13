@@ -19,7 +19,7 @@
 
 ### Backend/Server Side Projects
 
-👉🏾 Available on my repository section....
+[![Auth and Dashboard](./assets//images/authdashboard.png)](https://authdashboard.onrender.com) [![My Blog](./assets//images/myblog.png)](https://myblog-1uzm.onrender.com) [![Band Name Generator](./assets//images/bandnamegenerator.png)](https://bandnamegenerator.onrender.com)
 
 ## Core Languages and Tools
 
