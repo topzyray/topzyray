@@ -1,6 +1,6 @@
 # Hi there, I am Tope 👋
 
-## I am a Full Stack Software Developer and a Certified Cybersecurity Professional 💻🖥️
+## I am a Software Developer and a Certified Cybersecurity Professional 💻🖥️
 
 - 🔭 I’m currently working on **Onile: A property listing platform**
 - 🌱 I’m currently learning **API and Database**
