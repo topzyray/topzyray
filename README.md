@@ -15,7 +15,7 @@
 
 ### Frontend Projects
 
-[![Onile Phase 2](./assets/images/onile_redesign.png)](https://onile-redesign.netlify.app) [![Onile Phase 1](./assets/images/onile_home.png)](https://onile-homes.netlify.app) [![Simon Game](./assets/images/simon_game.png)](https://simon-game-in-jquery.netlify.app) [![Play-It](./assets/images/play_it.png)](https://play-kit.netlify.app) [![Dicee World](./assets/images/dicee_world.png)](https://dicee-world.netlify.app) [![GPT-3](./assets/images/gpt_3.png)](https://adorable-narwhal-cc1273.netlify.app) [![Calculator](./assets/images/calculator.png)](https://my-calculator-in-vanillajs.netlify.app/) [![Tech4Dev](./assets/images/tech4dev.png)](https://effulgent-smakager-0356d7.netlify.app/)
+[![Onile Phase 2](./assets/images/onile_redesign.png)](https://onile-redesign.vercel.app/) [![Onile Phase 1](./assets/images/onile_home.png)](https://onile-homes.netlify.app) [![Simon Game](./assets/images/simon_game.png)](https://simon-game-in-jquery.netlify.app) [![Play-It](./assets/images/play_it.png)](https://play-kit.netlify.app) [![Dicee World](./assets/images/dicee_world.png)](https://dicee-world.netlify.app) [![GPT-3](./assets/images/gpt_3.png)](https://adorable-narwhal-cc1273.netlify.app) [![Calculator](./assets/images/calculator.png)](https://my-calculator-in-vanillajs.netlify.app/) [![Tech4Dev](./assets/images/tech4dev.png)](https://effulgent-smakager-0356d7.netlify.app/)
 
 ### Backend/Server Side Projects
 
