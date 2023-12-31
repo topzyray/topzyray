@@ -19,7 +19,7 @@
 
 ### Backend/Server Side Projects
 
-[![Auth and Dashboard](./assets//images/authdashboard.png)](https://authdashboard.onrender.com) [![Weather App](./assets//images/weather.png)](https://wakode-weather-app.onrender.com) [![My Blog](./assets//images/myblog.png)](https://myblog-1uzm.onrender.com) [![Band Name Generator](./assets//images/bandnamegenerator.png)](https://bandnamegenerator.onrender.com) [![Secrets](./assets//images/secrets.png)](https://secrets-5pp1.onrender.com/)
+[![Daily Todo App](./assets//images/todo.png)](https://todo-hk56.onrender.com/) [![Auth and Dashboard](./assets//images/authdashboard.png)](https://authdashboard.onrender.com) [![Weather App](./assets//images/weather.png)](https://wakode-weather-app.onrender.com) [![My Blog](./assets//images/myblog.png)](https://myblog-1uzm.onrender.com) [![Band Name Generator](./assets//images/bandnamegenerator.png)](https://bandnamegenerator.onrender.com) [![Secrets](./assets//images/secrets.png)](https://secrets-5pp1.onrender.com/)
 
 ## Core Languages and Tools
 
