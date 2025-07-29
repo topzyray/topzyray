@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on my skills<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with tech roles <br>🌱 I’m currently learning containerization<br>💬 Ask me about on my LinkedIn bio<br>⚡ Fun fact: I'm very foody
+🔭 I’m a Fullstack Software Engineer passionate about building high-performance, scalable web applications using JavaScript and TypeScript. My core technologies include React.js, Next.js, and NestJS, with robust data management powered by SQL (PostgreSQL, MySQL and SQLite) and MongoDB.<br />
+
+Over the years, I've contributed to impactful digital projects, collaborating with cross-functional teams in agile environments. I care deeply about writing clean, maintainable code and building systems that scale. Whether developing APIs, designing frontend components, or architecting microservices, I bring clarity, efficiency, and technical empathy to every project. <br />
+
+I’m currently exploring new opportunities — particularly roles where I can contribute to building modern web platforms, grow with forward-thinking teams, and make meaningful impact. <br />
+
+⚡ Let’s connect if you’re building something great — or if you’re hiring for a JavaScript/TypeScript-focused engineer! <br />
+⚡ Fun fact: I'm very foody
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/topzyray) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taiwotopesunday) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/taiwotopesunday) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@taiwotopesunday) 
